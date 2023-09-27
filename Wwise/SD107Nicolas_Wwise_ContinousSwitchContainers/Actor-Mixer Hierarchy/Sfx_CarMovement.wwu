@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{7BD6CACD-6670-43A0-8BB1-24A1513FEF72}" SchemaVersion="110" RootDocumentID="{A716AD9C-ADFF-40F2-8206-CDB13910ECBE}" ParentDocumentID="{A716AD9C-ADFF-40F2-8206-CDB13910ECBE}">
-	<AudioObjects>
-		<WorkUnit Name="Sfx_CarMovement" ID="{7BD6CACD-6670-43A0-8BB1-24A1513FEF72}" OwnerID="{A716AD9C-ADFF-40F2-8206-CDB13910ECBE}" PersistMode="Nested"/>
-	</AudioObjects>
-</WwiseDocument>
