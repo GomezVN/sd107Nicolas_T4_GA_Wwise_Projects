@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{8EE06385-F3FA-4C3D-B709-71F193361822}" SchemaVersion="110">
+	<SoundcasterSessions>
+		<WorkUnit Name="CarMovement" ID="{8EE06385-F3FA-4C3D-B709-71F193361822}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="Test" ID="{C9485C7E-8A08-422D-BA2E-BB5AC0D6FBC7}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="CarMovement" ID="{5A394B58-64D4-4574-BD8C-11562B5A218D}" WorkUnitID="{AE8DA2A5-E486-450F-9C86-480769824DC7}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Pavement" ID="{DB52744E-0543-4274-AEBE-7DB399382948}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>
