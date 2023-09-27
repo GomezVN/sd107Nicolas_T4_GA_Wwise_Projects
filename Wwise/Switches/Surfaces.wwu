@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{353A3589-F9B2-4688-82EA-8AFB488AF932}" SchemaVersion="110">
+	<Switches>
+		<WorkUnit Name="Surfaces" ID="{353A3589-F9B2-4688-82EA-8AFB488AF932}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Surfaces" ID="{636FE113-C785-4479-A5B1-062E2D2AA958}">
+					<ChildrenList>
+						<Switch Name="Pavement" ID="{DB52744E-0543-4274-AEBE-7DB399382948}"/>
+						<Switch Name="Gravel" ID="{9694B2EC-8E1A-4FF7-9606-10C0CC1FA6D0}"/>
+						<Switch Name="Mud" ID="{E5FFAAC6-5B16-4F3F-A841-8A892A73FCE1}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>
